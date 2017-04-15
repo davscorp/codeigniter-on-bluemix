@@ -1,7 +1,7 @@
 # CodeIgniter on Bluemix
 A demo codeigniter framework boilerplate in IBM Bluemix (See the results: https://codeigniter-bluemix.mybluemix.net)
 
-## 1. Get Started
+## Get Started
 - a. Change Manifest.yml 
 	```
 		applications:
