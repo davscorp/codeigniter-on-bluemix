@@ -15,13 +15,13 @@ A demo codeigniter framework boilerplate in IBM Bluemix (See the results: https:
 		  services:
 		  - YOUR_SERVICES_APP
 	```
-- b. Change options.json (in .bpconfig folder) for added PHP Extension.
+- b. Change options.json (in .bpconfig folder) for adding some PHP Extensions.
 	```
 	{
 		"PHP_EXTENSIONS": ["mysql","mysqli","curl","gd","openssl"]
 	}
 	```
-- c. Change config (applicaton/config/config.php)
+- c. Change config.php (applicaton/config/config.php)
 	```
 	// $config['base_url'] = 'https://codeigniter-bluemix.mybluemix.net';
 	$config['base_url'] = 'YOUR_BASE_URL';
